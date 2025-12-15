@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  
+  <summary>:zap: Github Stats</summary>
+  
+  <img align="left" alt="mfariav's Github Stats" src="https://github-readme-stats-ten-murex-eqyixd8gcd.vercel.app/api?username=mfariav&show_icons=true&hide_border=ture" />
+  
+</details>
