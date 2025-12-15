@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 ### Desenvolvedora Front-end, Designer UX/UI e Designer Gráfico
 
 <br>
-📫 **mfariav@gmail.com**
+📫 mfariav@gmail.com
 
-👨‍💻 **[https://portfoliomaira.framer.website/](https://portfoliomaira.framer.website/)**
+👨‍💻 **[Portfólio](https://portfoliomaira.framer.website/)**
+
 <br>
 <h3 align="left">Conecte-se:</h3>
 <p align="left">
