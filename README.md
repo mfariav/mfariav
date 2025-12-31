@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-2-e1-proj-web-t5-voluntariar/codigo-fonte/Homepage/">VOLUNTARIAR</a>
-💻 Experiência em projeto acadêmico colaborativo (Git/GitHub – repositório privado). Desenvolvi as páginas Homepage e Gestão de Candidaturas.
+<br>💻 Experiência em projeto acadêmico colaborativo (Git/GitHub – repositório privado). Desenvolvi as páginas <b>Homepage</b> e <b>Gestão de Candidaturas</b>, além de participar de todas as etapas do projeto: documentação e estudo do contexto, uso da metodologia Scrum, projeto de interface e testes das funcionalidades do sistema.
 
 <br>
 
