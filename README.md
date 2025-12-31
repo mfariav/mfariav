@@ -1,3 +1,4 @@
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=AC2E3C&width=435&lines=Seja+bem-vindo!)](https://git.io/typing-svg)
 
 <!--
@@ -37,10 +38,4 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=mfariav&color=red&style=flat-square)
 
 <br>
-<details>
-  
-  <summary>:zap: Github Stats</summary>
-  
-  <img align="left" alt="mfariav's Github Stats" src="https://github-readme-stats-ten-murex-eqyixd8gcd.vercel.app/api?username=mfariav&show_icons=true&hide_border=ture" />
-  
-</details>
+
