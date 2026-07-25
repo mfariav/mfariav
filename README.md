@@ -29,7 +29,11 @@ Desenvolvedora de Sistemas em formação, com experiência profissional em Web D
 
 ### Design & Prototipação
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,framer,ps,ai,id" alt="Design Techs" />
+  <img src="https://img.shields.io/badge/Figma-18181b?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-18181b?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-18181b?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-18181b?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/InDesign-18181b?style=for-the-badge&logo=adobeindesign&logoColor=white" />
 </p>
 
 ---
