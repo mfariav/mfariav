@@ -2,9 +2,9 @@
 **Desenvolvedora de Sistemas | Desenvolvimento Web | Design & UX**
 
 <p align="left">
-  <a href="https://linkedin.com/in/mfariav" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://portfoliomaira.framer.website/" target="blank"><img src="https://img.shields.io/badge/Portfólio_Web-🛸-AC2E3C?style=flat-square" alt="Portfólio" /></a>
-  <a href="mailto:mfariav@gmail.com"><img src="https://img.shields.io/badge/E--mail-mfariav%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://linkedin.com/in/mfariav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfoliomaira.framer.website/" target="_blank"><img src="https://img.shields.io/badge/Portfólio_Web-111111?style=for-the-badge&logo=framer&logoColor=white" alt="Portfólio" /></a>
+  <a href="mailto:mfariav@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Aplicação Full-Stack voltada para o consumo sustentável e troca de peças de 
 Projeto colaborativo focado na conexão de voluntários a causas sociais. Atuei ativamente em todas as etapas de ciclo de vida do projeto: Scrum, engenharia de requisitos, testes e desenvolvimento.
 * **Contribuição:** Implementação das interfaces responsivas e lógicas da **Homepage** e do painel de **Gestão de Candidaturas**.
 * **Tecnologias:** HTML, CSS, JavaScript
-* 🔗 [Acesse a demonstração da aplicação](https://github.com/icei-puc-minas-pmv-ads/pmv-ads-2025-2-e1-proj-web-t5-voluntariar)
+* 🔗 [Acesse a demonstração da aplicação](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2025-2-e1-proj-web-t5-voluntariar/codigo-fonte/Homepage/)
 
 ---
 
