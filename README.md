@@ -20,16 +20,16 @@ Desenvolvedora de Sistemas em formação, com experiência profissional em Web D
 
 ## 🧰 Tech Stack & Ferramentas
 
-### 💻 Desenvolvimento de Software
+### Desenvolvimento de Software
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,js,php,html,css,bootstrap,git,azure" alt="Dev Techs" /> 
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,php,html,css,bootstrap,git,azure" alt="Dev Techs" /> 
 </p>
 
 * **CMS & No-Code:** WordPress & Elementor Pro 
 
-### 🎨 Design & Prototipação
+### Design & Prototipação
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,framer,photoshop,illustrator,indesign" alt="Design Techs" />
+  <img src="https://skillicons.dev/icons?i=figma,framer,ps,ai,id" alt="Design Techs" />
 </p>
 
 ---
