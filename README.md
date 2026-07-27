@@ -3,7 +3,9 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/mfariav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://portfoliomaira.framer.website/" target="_blank"><img src="https://img.shields.io/badge/Portfólio_Web-111111?style=for-the-badge&logo=framer&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://mfariav.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio_Web-111111?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio" />
+</a>
   <a href="mailto:mfariav@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
